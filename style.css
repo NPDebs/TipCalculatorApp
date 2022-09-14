@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(117, 95, 138);
+    font-family: 'Lucida Sans', Verdana, sans-serif;
+}
+
+.mainContainer {
+    margin: 100px auto;
+    max-width: fit-content;
+    height: auto;
+    background-color: rgb(26, 12, 39);
+    padding: 100px;
+    border: 1px solid wheat;
+    border-radius: 15px;
+    color: white;
+}
+
+.subContainer2 {
+    display: flex;
+    margin-top: 30px;
+}
+
+.totalContainer {
+    margin-left: 50px;
+}
+input {
+    background-color: inherit;
+    border-style: none;
+    outline: none;
+    color: white;
+    font-size: 16px;
+}
+
+.inputField {
+    border-radius: 12px;
+    height: auto;
+    max-width: 300px;
+    background-color: rgb(117, 95, 138);
+    padding: 2px;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.title {
+    margin: 0 0 20px 0px;
+    font-weight: 600;
+}
