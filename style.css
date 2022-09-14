@@ -5,7 +5,7 @@ body {
 
 .mainContainer {
     margin: 100px auto;
-    max-width: fit-content;
+    max-width: 60%;
     height: auto;
     background-color: rgb(26, 12, 39);
     padding: 100px;
@@ -21,9 +21,11 @@ body {
 
 .totalContainer {
     margin-left: 50px;
+    max-width: 40%;
 }
+
 input {
-    background-color: inherit;
+    background-color: transparent;
     border-style: none;
     outline: none;
     color: white;
@@ -33,14 +35,20 @@ input {
 .inputField {
     border-radius: 12px;
     height: auto;
-    max-width: 300px;
+    max-width: 80%;
     background-color: rgb(117, 95, 138);
-    padding: 2px;
+    padding: 5px;
     font-size: 20px;
-    margin-bottom: 15px;
+    margin-bottom: 40px;
+    display: flex;
 }
 
 .title {
     margin: 0 0 20px 0px;
     font-weight: 600;
+    width: 60%;
+}
+
+.controls {
+    display: flex;
 }
