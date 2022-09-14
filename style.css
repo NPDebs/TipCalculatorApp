@@ -35,7 +35,7 @@ input {
 .inputField {
     border-radius: 12px;
     height: auto;
-    max-width: 80%;
+    max-width: 50%;
     background-color: rgb(117, 95, 138);
     padding: 5px;
     font-size: 20px;
@@ -47,6 +47,7 @@ input {
     margin: 0 0 20px 0px;
     font-weight: 600;
     width: 60%;
+    font-size: 18px;
 }
 
 .controls {
