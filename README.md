@@ -1,4 +1,6 @@
 # TipCalculatorApp
+![TipCalcApp](https://github.com/NPDebs/TipCalculatorApp/assets/105166953/883cb904-9998-499e-8f98-48a711c3e0b3)
+
 An app that helps the user calculate the total amount a service (meal) costs.
 
 It doesn't take a math genius to figure out what 10% of $1,000 is. However, meals involving large orders and multiple persons may require extra brain muscle.
